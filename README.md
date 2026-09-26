@@ -344,13 +344,8 @@ The deployment process consists of:
 
 ### Live Demo
 
-**Live Application:**
-`https://jarurat-care-portal-qe1i1odo1-triksoft1.vercel.app`
+**[Open the Live Application](https://jarurat-care-portal-qe1i1odo1-triksoft1.vercel.app)**
 
-### GitHub Repository
-
-**GitHub:**
-`https://github.com/triksoft/jarurat-care-portal`
 
 ---
 
